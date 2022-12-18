@@ -1,6 +1,12 @@
 # ModernEnglish_SCPSL
 # Updates often, Custom translations for SCP:SL Gameplay
 
+# UPDATES
+alphawarhead 
+
+
+
+
 
 
 
@@ -50,13 +56,5 @@ Once you are done with that, open SCPSL and go to your settings and whatever you
 
 Then you are done with it and you can now play with the translations.
 - skyblue
-
-
-
-
-# UPDATES
-alphawarhead 
-
-
 
 
