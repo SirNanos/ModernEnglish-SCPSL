@@ -1,0 +1,50 @@
+<color=#D2D4C1>Name: <color=#FF0>[user]</color>\nDeath Cause: </color>[cause]
+<color=#FFA500>Re-contanied\nBetter luck next time.</color>
+<color=#FFA500>Death by Nuke.</color>
+<color=#FFA500>Death by</color><color=#F00> SCP-049.<size=15>\n\n\n\n\n\n\n\n\nSCP-049 is a plague doctor with different footsteps, it inflicts Carrdiac Arrest which slowly kills you, fades after 30 seconds.</color></size>
+<color=#FFA500>No visible death marks.</color>
+<color=#0096FF>Many electrical burns.</color>
+<color=#FFA500>Death by asphyxia.</color>
+<color=#F00>Bled to death.</color>
+<color=#F00>Ran out of Red & White blood cells.</color>
+<color=#FFA500>Fell to death.</color>
+<color=#FFA500>You are still on earth, not in space!</color>
+<color=#FF0>Died to </color><color=red>SCP-106. <size=15>\n\n\n\n\n\n\n\n\nSCP-106 can stalk it's prayers by teleporting to map areas and by going in-ground. (Can also see low HP people in-ground)</size></color>
+<color=#FFA500>Turned into liquid by strong substance.</color>
+<color=#FF0>You have failed to pay your life taxs - poision took action</color>
+<color=#FF0>Poisoned to death.\n<size=5>does that even make sence what</size>
+<color=#FFA500>Death by <color=#F00>SCP-207.<size=15>\n\n\n\n\n\n\n\n\nSCP-207 is a drink which increases movement speed, but does damage overtime.</size></color>
+<color=#F00>Did you know you had SCP-207 on you?</color>
+<color=#FF0>Only take One (1) or Two (2)!</color>
+<color=#FFA500>First time crossing the tesla gate?</color>
+<color=#FFA500>Explosive burns.</color>
+<color=#FFA500>Caught in a grenade's explosion-fire. (crossfire)</color>
+<color=#FFA500>Death by </color><color=#F00>SCP-096. <size=15>\n\n\n\n\n\n\n\n\nSCP-096 is a playable-anomaly that can only kill it's victums if viewed face.</size></color>
+<color=#FFA500>Death by <color=#F00>SCP-173. <size=15>\n\n\n\n\n\n\n\n\nSCP-173 is an playable-anomaly that teleports once seen, kills it's prayers by neck-adjusting, they can kill you if they're not in your sight.</size></color>
+<color=#FFA500>Death by </color><color=red>SCP-939. <size=15>\n\n\n\n\n\n\n\n\nSCP-939 is an playable-anomaly that can play other people's voices, and can jump-attack. Can only see by sound.</size><</color>
+<color=#FFA500>Death by </color><color=red>SCP-049-2<b>-2<size=15>\n\n\n\n\n\n\n\n\nSCP-049-2 is a zombie that eats humans to regenerate HP, and does a mild damage, can run.</size></color>
+<color=#00FF58>[ammotype] Bullet wounds.</color><size=15>\n\n\n<color=#FF0>9x19mm</color> = <color=#D2D4C1>Com15/18/45,</color><color=#0096FF> Crossvec,</color><color=#5B6370> FSP-9.</color>\n<color=#FF0>5.56x45mm</color> = <color=#0096FF>MTF-E11-SR</color>\n<color=#FF0>.44 Mag</color> = <color=#0D7D35>Revolver </color>\n<color=#FF0>12/70 Buckshot</color><color=#0D7D35> = Shotgun</color></color>\n<color=#FF0>7.62x39mm</color> =<color=#0D7D35> AK, Logicer</color></size></size>
+<color=#FFA500>Many bleeding wounds around the body.</color>
+<color=#FFA500>Used to contain </color><color=#F00>SCP-106</color>. (Femeur Breaker No Longer In-game - 12.0)
+<color=#FFA500>Used as a sacrifice to re-contain </color><color=#F00>SCP-106.</color>
+Automaticly killed for friendly fire.
+<color=#FFA500>Death by <color=#F00>SCP-244.<size=15>\n\n\n\n\n\n\n\n\nSCP-244 is a object-anomaly jar which emits cold air, similar to decontamination slows down it's victums and slowly kills them.</size></color>
+<color=#F00>Experienced extreme hypothermia.</color>
+No translation! Line: 33, DeathReasons
+No translation! Line: 34, DeathReasons
+No translation! Line: 35, DeathReasons
+No translation! Line: 36, DeathReasons
+No translation! Line: 37, DeathReasons
+No translation! Line: 38, DeathReasons
+No translation! Line: 39, DeathReasons
+No translation! Line: 40, DeathReasons
+No translation! Line: 41, DeathReasons
+No translation! Line: 42, DeathReasons
+No translation! Line: 43, DeathReasons
+No translation! Line: 44, DeathReasons
+No translation! Line: 45, DeathReasons
+No translation! Line: 46, DeathReasons
+No translation! Line: 47, DeathReasons
+No translation! Line: 48, DeathReasons
+<size=15>\n\n\n\n\n\n\n\n\nINFO</size>
+

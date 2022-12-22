@@ -1,0 +1,8 @@
+<color=#F00>-Attack Cooldown-</color>
+Can't perform action on surface!
+Can't perform during elevator travel.
+<color=#F00>An unstoppable force capable of easily bypassing any door in the facility.</color>\n<color=#EC2222><size=10><color=#F00>SCP Monsters</color> - <color=#00FF78>Friendly</color> | <color=#FF8E00>Class-D</color> - <color=red>Hostile</color>\n<color=#FFFF7CFF>Researchers</color> - <color=red>Hostile</color> | <color=#0096FF>MTF</color>/<color=#5B6370>Guards</color> - <color=red>Hostile</color>\n<color=#008F1C>Chaos Insurgency</color> - <color=#FFFFFF>Neutral</color></size>\n<b>Please check <color=#FF0>server info</color> about allies/enemies!</b>\nKill all hostile
+<color=#F00>Capture:</color><color=#F00>Ensnares a human in close distance, entrapping them within the pocket dimension — a deadly prison dictated by your rule. The joy of capturing new prey replenishes Vigor.</color>
+<color=#F00>Stalk:</color><color=#F00>Submerges you into the floor. Move around quickly and invisibly, regenerate, and prepare to strike your prey. Uses Vigor, which regenerates slowly while Stalk is inactive.</color>
+<color=#F00>Hunter’s Atlas:</color><color=#F00>Quickly move to a nearby room, at a great Vigor cost. Such movement is instinct to you, having prowled through the Site's corridors for as long as you have.</color>
+<color=#F00>Blissful Agony:</color><color=#F00>While Stalking, you can only see injured humans. The greater their agony, the greater the distance you can spot them from. Escapees of the pocket dimension are traumatized, leaving them visible from anywhere.</color>

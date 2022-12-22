@@ -1,0 +1,7 @@
+<color=green>Intercom status:</color>\n<color=green>Ready!</color>
+<color=yellow>Message transmitting!</color>\n{0} seconds remain!
+<color=yellow>Message transmitting!</color>\n<color=yellow>INF+ seconds remain!</color>\n<size=10>(Bypass mode)</size>
+<color=green>Intercom status:</color>\n<color=red>Restarting...</color>\n{0}
+<color=red>An Admin is using the intercom externally!</color>
+<color=red>Intercom muted</color>\n<color=#FFA500>Please ask the local server admin to unmute you.</color>
+<color=red>Error: 404 - Couldn't locate problem: "intercom_system.unity"</color>

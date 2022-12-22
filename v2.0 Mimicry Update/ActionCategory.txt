@@ -1,0 +1,8 @@
+Gameplay
+<color=#70C3FF>Weapons</color>
+<color=#FF8E00>Movement</color>
+Hotkeys
+Comms
+<color=#FF0>System</color>
+<color=#5B6370>Unbindable</color>
+<color=#8080FF>SCP-079</color>

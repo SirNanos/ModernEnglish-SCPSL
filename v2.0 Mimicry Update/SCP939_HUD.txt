@@ -1,0 +1,39 @@
+[key_attack] OR [key_jump] for a funny lunch-jump.</color>
+<color=#F00>Preview the voice</color>\n(only you can hear this)</color>
+<color=#F00>Local Preview</color>
+<color=#F00>Remove the voice</color>\n(hold)
+<color=#F00>Play the voice</color>\n(everyone can hear this)
+<color=#F00>Your voice was stolen by SCP-939 as you died!</color>
+<color=#F00>If you do not wish your microphone to be used, you can turn this feature off.</color>
+<color=#FF0>Remember what I selected</color>
+<color=#F00>Delete</color>
+<color=green>Okay</color>
+<color=#FF0>Request More Info</color>
+<color=#F00>SCP-939 uses a mechanic where the last few seconds of your voice chat transmission is <color=#FF0>temporarily recorded.</color> This can be played back by SCP-939 to lure out targets.\n<color=#FF0>The recordings are automatically discarded if you leave the server, SCP-939 dies, or upon round restart.</color> Turning this feature off will remove <b>all</b> existing recordings of your transmissions.</color></color>
+<color=#F00>Can't deploy cloud on this position.
+<color=#EC2222>Minimal Cloud size hasn't been reached. Hold the deploy key for longer.</color>
+<color=#EC2222>SCP-939 is blind, and sees through sound. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.<size=10>\n<color=#F00>SCP Monsters</color> - <color=#00FF78>Friendly</color> | <color=#FF8E00>Class-D</color> - <color=red>Hostile</color>\n<color=#FFFF7CFF>Researchers</color> - <color=red>Hostile</color> | <color=#0096FF>MTF</color>/<color=#5B6370>Guards</color> - <color=red>Hostile</color>\n<color=#008F1C>Chaos Insurgency</color> - <color=#FFFFFF>Neutral</color></size>\n<b>Please check <color=#FF0>server info</color> about allies/enemies!</b>\nKill all hostile</color>s
+<color=#EC2222>Claw:Click to swipe your claw in a wide arc in front of you, ripping flesh and bone from your chosen victim. Whilst focusing, your primary attack will allow you to lunge at your prey. </color>
+<color=#EC2222>Focus:Devoting your full energy to your senses, you can see prey from farther away, as well as being able to tell what type of prey they are, through the actions they perform. </color>
+<color=#EC2222>Amnestic Cloud:Fill your air sacs with a dangerous neurochemical gas, projecting it in a radius which is determined by the time it was charged. Humans who inhale the gas lose perception of SCP-939, and cannot perform certain actions. Beware though, attacking or being attacked will reveal you for a short time.  </color>
+<color=#EC2222>With Many Voices:Humans you kill have a chance at giving you their last words, allowing you to steal their voice and utilize it to deceive others. In addition, SCP-939 can also mimic some basic sounds, such as disguising their footsteps to match humans. </color>
+<color=#EC2222>Ultrasensitive:SCP-939 is able to sense nearby heat sources, represented by a small radius of normal vision. Outside of this however, you must rely on sound in order to track nearby prey. The louder the sound, the further away you can hear it from. The range of your vision is affected by your stamina levels. </color>
+Return
+<color=green>Place Mimic Point</color>
+Override position of Mimicry's sounds source
+<color=red>Remove Mimic Point</color>
+<color=#F00>Make all sounds emerge from your current location</color>
+<color=green>Mimic Point <color=#FF0>set!</color></color>
+<color=green>Mimic Point <color=#F00>removed!</color></color>
+<color=#D2D4C1>Mimic Point destroyed:\nYou're out of range.</color>
+Stolen Voices
+Play back your victims' voices
+Environmental Mimicry
+Mimic various sounds to lure out targets
+(Cooldown: [time]s)
+<color=#70C3FF>Human footsteps</color>
+Impersonation\n<color=#FF8E00><size=15>Class-D = SCP-207/Gun sounds</color>\n<color=#FFFF7CFF>Scientist = Heal sounds</size></color>
+<color=#999999>Shooting</color>
+Other
+<color=#FFA500><-</color>
+<color=#FFA500>-></color>
