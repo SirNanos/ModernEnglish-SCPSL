@@ -12,6 +12,8 @@ alphawarhead
 
 
 # Insallation
+
+Tutorial video : https://www.youtube.com/watch?v=7BCPJVH4FmA
 First, navigate to your game files which are located in steam
 ![Image1](https://user-images.githubusercontent.com/120991444/208324395-d3e2af50-f85e-422a-9f04-681f7a512587.png)
 
