@@ -1,6 +1,8 @@
 # ModernEnglish_SCPSL
 # Updates often, Custom translations for SCP:SL Gameplay
 
+made by alphawarhead
+
 # UPDATES
 alphawarhead 
 
