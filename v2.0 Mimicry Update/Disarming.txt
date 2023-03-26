@@ -1,3 +1,0 @@
-Disarmed by <u><b>[player]</u>!</b>
-A administrator+ has disarmed you.
-<size=20>Follow the orders given to you or try to escape and ask for help from teammates.</size>

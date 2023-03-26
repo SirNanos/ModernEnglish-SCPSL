@@ -1,6 +1,0 @@
-<color=red>Unknown Error</color>
-<color=#FFA500>Ammo Limit Reached!</color>\n\n\n<b><color=#00FF58>[type] ammo</color>[max_type_count] rounds!</color></b>
-<color=#FFA500>You have <u>already</u> reached the ammo limit!\n\n\n<color=#00FF58><b>[type] ammo - [max_type_count] rounds!</color></b>
-<color=#FFA500>Reached item limit!\n\n\n</color><color=#00FF58><b>[type] - [max_type_count] items</color></b>
-<color=#FFA500>Item limit already reached\n\n\n [type] - [max_type_count] items.</color>
-<color=#FFA500>Full inventory!\n\n\nOnly <color=#FF0>[max_item_count]</color> items can be carried!</color>

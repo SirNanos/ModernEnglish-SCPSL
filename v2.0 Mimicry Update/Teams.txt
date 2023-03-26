@@ -1,6 +1,0 @@
-<color=#F00>SCP Monsters</color>
-<color=#0096FF>Foundation</color> <color=#A2A2A2>Forces</color>
-<color=#0D7D35>Chaos Insurgeny</color>
-<color=#FFFF7CFF>Researchers</color>
-<color=#FF8E00>Class-D</color>
-<color=#D2D4C1>Unclassified</color>

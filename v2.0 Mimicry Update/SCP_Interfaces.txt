@@ -1,1 +1,0 @@
-<size=25><color=#F00>You have failed to save this soul.\nThey are beyond recovery.</color></size>
