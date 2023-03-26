@@ -1,10 +1,8 @@
 # ModernEnglish_SCPSL
-# Updates often, Custom translations for SCP:SL Gameplay
-
-made by alphawarhead
+#Custom translations for SCP:SL Gameplay.
 
 # UPDATES
-alphawarhead 
+Tutorial by SkyBlue!
 
 
 
@@ -13,7 +11,7 @@ alphawarhead
 
 
 
-# Insallation
+# Applying M.E. to SCP:SL Folder
 
 Tutorial video : https://www.youtube.com/watch?v=7BCPJVH4FmA
 First, navigate to your game files which are located in steam

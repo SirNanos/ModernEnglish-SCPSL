@@ -1,7 +1,0 @@
-<color=#FF8E00>Sprint</color>:<color=#FF8E00>Increases your movement speed, but also increases sound made while moving.</color>
-<color=#FFFF7CFF>Sneak</color>:<color=#FFFF7CFF>Your movements sounds cease to exist: they become silent, at the cost of a lot of speed.</color>
-<color=#EC2222>Inventory</color>:<color=#EC2222>Open your inventory and select an item you have picked up using LMB (Left click), or drop it using RMB (Right click).</color>
-<color=#FF8E00>Unarmed</color>:<color=#FF8E00>You have nothing. Find something. Anything.</color>
-<color=#86FFAB>Access Card</color>:<color=#86FFAB>You spawn with a keycard, don't loose it. It's better then nothing.</color>
-<color=#0096FF>Standard Issue</color>:<color=#0096FF>You are equipped with a Firearm, an Access Card, and some utility items.</color>
-<color=#008F1e>Armed & Dangerous</color>:<color=#008F1e>You have been consigned with heavy weaponry, an Access Device, some medical supplies.</color>

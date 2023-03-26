@@ -1,7 +1,0 @@
-Report Player
-Target:\nPlayer ID:\nDescription:
-Cancel
-Report for breaking Server rules.\n<color=yellow>(Reports to <b>Server Staff</b>)</color>
-Report for EUA/TOS breaches, cheating, etc.\n<color=red>(Reports to <b>Global Staff<b>)</color>
-[REPORTING]
-Please wait...\n<size=20>Keep in mind, Server Staff = Server Staff.\nGlobal staff = Global staff</size>

@@ -1,8 +1,0 @@
-<color=#F00>SCP-096 starts docile, and can become enraged when someone sees its face, or harms it. Rage empowers with many abilities, which assist SCP-096 in following transgressor’s lights before the fury subsides.</color>\n<color=#EC2222><size=10><color=#F00>SCP Monsters</color> - <color=#00FF78>Friendly</color> | <color=#FF8E00>Class-D</color> - <color=red>Hostile</color>\n<color=#FFFF7CFF>Researchers</color> - <color=red>Hostile</color> | <color=#0096FF>MTF</color>/<color=#5B6370>Guards</color> - <color=red>Hostile</color>\n<color=#008F1C>Chaos Insurgency</color> - <color=#FFFFFF>Neutral</color></size>\n<b>Please check <color=#FF0>server info</color> about allies/enemies!</b>\nKill all hostile
-<color=#F00>Try Not to Cry:</color><color=#F00>It's hard to go on… but leaning on something helps you to calm down, either to hide… or to wait for someone to come by.</color>
-<color=#F00>Melee Attack:</color><color=#F00>Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and injure humans.</color>
-<color=#F00>Charge:</color><color=#F00>Cut their escapes short — they deserve it. You bolt straight ahead for a short distance, demolishing anything in your path.</color>
-Rage Only
-Docile Only
-Hold [key] to enter Rage.
-Hold [key] to force-exit Rage.
