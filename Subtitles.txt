@@ -1,0 +1,38 @@
+<color=#0096FF>[♀] MTF E-11: "[designation]" | Entered Site-02 | Get to safe location.
+<color=#f00>[count] SCP</color><color=#9e6d30> subjects left.</color>
+<color=#f00>1 SCP</color><color=#9e6d30> subject left.</color>
+<color=#FF0>No SCP</color><color=#9e6d30> subjects left. - Threat remains.</color>
+<color=#FF0>[🔪] Terminated!: Unspecified termination cause. [?]</color>
+<color=#999SCP>[🔪] Terminated!</color>: <color=#f00>SCP-[scp].</color>
+<color=#aab35f>[🔪] Terminated!</color>: <color=#80d7ff>Automatic Security System. [ϟ]</color>.
+<color=#aab35f>[🔪] Terminated!</color>: <color=#f00>Alpha Warhead. [⎋]</color>
+<color=#00bcd4>[🔪] Contained</color>:<color=#FFFF7CFF> Science Personnel. [♀]</color>
+<color=#00bcd4>[🔪] Contained</color>:<color=#FF8E00> Class-D Personnel. [♀]</color>
+<color=#00bcd4>[🔪] Contained</color>:<color=#008F1e> Chaos Insurgency. [♀]</color>
+<color=#f00>SCP-[scp] </color>
+<color=#00bcd4>[🔪] Contained! </color><color=#0096FF>Containment unit:</color><color=#00bcd4>unknown. [?]</color>
+<color=#00bcd4>[🔪] Contained! </color><color=#0096FF>Containment Unit: [designation] [♀]</color>.
+<color=#FDFF6D>[🔪] Terminated!: Decontamination Sequence. [☁]</color><size=1>when you are trapped</size>
+<color=#4800ff>[ϟ] Generators: <color=red>[current]</color> / <color=#F00>[max]</color> activated.</color>
+<color=#4800ff> All activated, Overcharge will commence by button</color>
+<color=#4800ff>[ϟ] Generators: Overcharge commencing</color>
+<color=#4800ff>[ϟ] Generators: Facility overcharge finished.</color>
+<color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>15 minutes.</color>
+<color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>[time] minutes.</color>
+<color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>1 minute.</color>
+<color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>30 Seconds.</color> <color=#F00>All checkpoint doors are open!</color>
+<color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>Commenced </color>-<color=red> LCZ now disabled.</color>
+<color=#C50000>[⎋] Alpha Warhead Activated: [time] Seconds!</color>
+<color=#50C878>[⎋] Alpha Warhead <b>De</b>-activated: Systems restarting.</color>
+<color=#C50000>[⎋] Alpha Warhead <b>Re-</b>activated: [time] Seconds!</color>
+
+-Symbols-
+SCP:
+SCP (contained): [🔪]
+Nuke: ⎋
+Decontamination: ☁
+Generators: [ϟ]
+MTF contain & MTF announcements: ⚔️
+Person: ♀ =
+
+Broadcast the emojis in-game to make sure it works.

@@ -1,0 +1,22 @@
+<color=#FFA500>Nuked.</color>
+<color=#FFA500>Fell to death.</color>
+<color=#FFA500>The body appears to be in a "shock-death" state as they were used for </color><color=#F00>SCP-106</color>.
+<color=#FF0>Killed by SCP-106</color>
+<color=#F00>It appears to be SCP-106!</color>
+<color=#FFA500><color=#0096FF>severe electrical burns.</color></color>
+<color=#FFA500>Unclear death cause</color>
+<color=#FFA500>There are many bullet wounds present on the body, most likely [ammotype] was used. <size=15>\n<color=#FF0>9x19mm</color> = <color=#D2D4C1>Com15/18<,</color><color=#0096FF> Crossvec,</color><color=#5B6370> FSP-9.</color>/\n<color=#FF0>5.56x45mm</color> = <color=#0096FF>MTF-E11-SR</color>\n<color=#FF0>.44 Mag</color> = <color=#0D7D35>Revolver </color>\n<color=#FF0>12/70 Buckshot</color><color=#0D7D35> = Shotgun</color></color>\n<color=#FF0>7.62x39mm</color> =<color=#0D7D35> AK, Logicer</color></size></size>
+<color=#FFA500>The neck-bone appears to cut off oxygen supply to the brain,\nSuggested caused by <color=#F00>SCP-173.</color>
+<color=#F00>Infected by SCP-106's parasite.</color>
+<color=#FFA500>Unclear death cause, possible organ failure/heart attack\nNo visible cause can be observed by any SCP.</color>
+<color=#FFA500>Unclear death cause, possible organ failure/heart attack\nNo visible cause can be observed by any SCP.</color>
+<color=FF0>You have found a coarpse, the identify appears to be <color=#FFA500>[user]</color>.\nthey were </color>[class].\n[cause]
+<color=#F00>Blood loss</color><color=#FFA500> caused by very-deep wounds, most likely <color=#F00>bled to death.</color>
+<color=#FFA500>There are small body parts missing on the body,\n<color=#F00>SCP-939</color> most likely caused this.</color>
+<color=#FFA500>Turned into liquid by strong substance.</color>
+<color=#FFA500>There are explosion burns and marks on the body,\nmost likely got caught in a grenade's explosion-fire. (crossfire)</color>
+<color=#FFA500>Pale Skin & Blood leaking from mouth, suggested Sugar rush caused by <color=#F00>SCP-207.</color>
+<color=#FFA500>Re-contanied\nBetter luck next time.</color>
+<color=#FFA500>There's bitemarks present on the body as well as deep-bleeing scraches,\nmost likely caused by <color=#F00>SCP-049's zombies. (SCP-049-2)</color>
+<color=#F00>Bled</color><color=#FFA500> to death.</color>
+<color=#FF0>Sticky and yellow skin</color> <color=#FFA500>are present on the body, suggested caused by poison.</color>

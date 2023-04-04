@@ -1,0 +1,102 @@
+<color=blue>Join</color>
+<color=red>Close</color>
+<color=yellow>Shadow Resolution</color>
+<color=yellow>Settings</color>
+Game based off <i>SCP: Containment Breach</i>
+<color=red>Back</color>
+<color=#5B6370>Language</color>
+<color=yellow>Antialiasing</color>
+<color=cyan>Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.</color>
+<color=blue>Join Game</color>
+<color=blue>Post\nProcessing</color>
+<color=#EC2222>Credits</color>
+<color=#006826>QUIT GAME</color>
+<color=#00FF58>Fullscreen mode</color>
+<color=blue>Screen Settings</color>
+<color=#00FF58>Color Correction</color>
+<color=#5B6370>Enter IP Address...</color> #IS THIS IT????????????????
+<color=#0096FF>SCREEN RESOLUTION</color>
+<color=#8080FF>Play</color>
+<color=#00FF58>Pixel Light Count</color>
+<color=#70C3FF>Shadow Type</color>
+<color=#70C3FF>Shadow</color>
+<color=#FFA500>Create Game</color>
+<color=yellow>Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.</color>
+<color=yellow>Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.</color>
+<color=#FFA500>V-Sync</color>
+<color=green>Connect</color>
+<color=#FFA500>Quality Settings</color>
+<color=green>Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.</color>
+<color=yellow>Main Menu</color>
+<color=#999999>Render Lights</color>
+<color=#138f8d>Motion Blur</color>
+<color=#138f8d>Shadow Distance</color>
+<color=#FFFF00>Details</color>
+<color=#F00>3. SCP-914</color>
+<color=#00FF58>Tutorials</color>
+<color=red>Note!</color>
+<color=#006826>Browse available servers</color>
+<color=#EC2222>Don't show it again</color>
+<color=yellow><b>How would you like to connect?</color></b>
+<color=#5B6370>Server Browser</color>
+<color=#D2D4C1>Okay</color>
+<color=#008F1C>Find Match</color>
+<color=#70C3FF>2. Using weapons</color>
+<color=#8080FF>We use Discord as a forum. No installation needed.\n(click the logo to join)</color>
+<color=#00FF58>By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)</color>
+<color=#00FF58>1. The basics</color>
+<color=#FFA500>The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.</color>
+<color=#00FF58>4. (more tutorials later)</color>
+<collor=#5B6370>Direct Connect</color>
+<color=#0096FF>Tech Support / Forum</color>
+Sound Volume
+<color=#5B6370>Enter the IP address of the specific server.</color><size=1>I THINK I FOUND IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</size>
+<color=green>Loading List...</color>
+<color=red>No Servers Available!\nCheck your local central servers</color>
+<color=red>Press ESC to Close / Cancel</color>
+<color=#00FF58>Key Binding</color>
+<color=#F00>Max Blood Amount</color>
+<color=#FF0>FPS Limit</color>
+<color=red>FPS Limit does not work when vSync is enabled!</color>
+<color=yellow>Set Default</color>
+<color=#00FF58>We use Steam Discussions as a forum. (Click the logo below to open the forum)</color>
+<color=#FFA500>Audio Settings</color>
+<color=blue>Master Volume</color>
+<color=#D2D4C1>Menu Music</color>
+<color=#FFA500>Voice Chat</color>
+<color=#FFFF7CFF>Sound Effects</color>
+<color=#FFA500>Gameplay options</color>
+<color=#D2D4C1>Fast Intro Fade</color>
+<color=#FFA500>Class intro text will fade out much more quickly.</color>
+<color=#EC2222>SCP-079 - TOGGLE VIEW MODE</color>
+<color=#FFA500>Press once to swap between camera modes.</color>
+<color=#EC2222>SCP-079 - POST-PROCESSING</color>
+<color=#FFA500>If disabled, camera effects will be heavily reduced.</color>
+<color=yellow>Head Bob</color>
+<color=#D2D4C1>Enables first-person camera bobbing during movement.</color>
+<color=green>Toggle Sprint</color>
+<color=#006826>Sprinting toggles on and off, instead of being held down.</color>
+<color=#003DCA>SEPARATE ARTIFICIAL HP BAR</color>
+<color=#ccc>Gives artificial HP its own health bar, instead of an overlay.</color>
+<color=#FF0></color>[Modern English is not northwood-assosiated]\n<color=green>The official translations are open-source on GitHub!\nWant to help? Click here to access the repo.</color>
+<color=#FFFF7CFF>Rich Presrnce</color>
+<color=#S69CP8>If enabled, your status will be displayed on Discord/Steam.</color>
+<color=#f0u72n>DISPLAY EXACT HP VALUE</color>
+<color=#FF96DE>Displays exact HP, instead of just the percentage.</color>
+<color=#9e6d30>PUBLIC LOBBY</color>
+<color=#FFA500>If enabled, your steam friends can join you without permission.</color>
+<color=#D2D4C1>HIDE IP</color>
+<color=#D2D4C1>If enabled, any IP in client console is not displayed.</color>
+<color=#5B6370>Toggle Search</color>
+<color=green>Item pickup will not require a held key; press again to cancel.</color>
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
+
+
+Dehances the gameplay, darks some areas and some effects.

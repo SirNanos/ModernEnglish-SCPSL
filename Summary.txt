@@ -1,0 +1,17 @@
+<size=1>S</size>
+<color=#FFF><size=60>-SUMMARY-</size></color>
+<color=#FFF><size=60>-SUMMARY-</size></color>
+<color=#FFF><size=60>-SUMMARY-</size></color>
+<color=#FFF><size=60>-SUMMARY-</size></color>
+<color=#F00>SCP's killed  everyone.</color>
+A unknown side has team has taken the facility.
+A C.I. Raid was succsessful.
+Unknown source has cut off the data.
+<color=#FF8E00>[summary_d_escaped] Class-d('s)</color> escaped.
+<color=#FFFF7CFF>[summary_s_escaped] Scientist(s)</color> survived.</color>
+Warhead: <color=#F00>Used.</color>
+Warhead: <color=green>Not used.</color>
+<color=#FF0>[summary_round_minutes] mins + [summary_round_seconds] sec.</color>
+<color=#F00>[summary_scp_terminated] terminated SCPs</color>
+<color=yellow>Round restarting: [summary_next_round_countdown]s</color>
+SCP's killed [summary_scpfrags] human(s).
