@@ -100,6 +100,3 @@ Projected textures such as bullet holes or blood splatter.
 
 
 Dehances the gameplay, darks some areas and some effects.
-
-
-

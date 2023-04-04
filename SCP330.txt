@@ -36,4 +36,3 @@ Solo Server: addcandy 1 PINK
 
 Support: If it doesn't work, type it in the text version of the RA, then hit send.
 You need to do it twice before it showing up.
-

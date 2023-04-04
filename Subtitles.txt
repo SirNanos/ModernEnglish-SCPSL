@@ -1,4 +1,4 @@
-<color=#0096FF>[♀] MTF E-11: "[designation]" | Entered Site-02 | Get to safe location. 
+<color=#0096FF>[♀] MTF E-11: "[designation]" | Entered Site-02 | Get to safe location.
 <color=#f00>[count] SCP</color><color=#9e6d30> subjects left.</color>
 <color=#f00>1 SCP</color><color=#9e6d30> subject left.</color>
 <color=#FF0>No SCP</color><color=#9e6d30> subjects left. - Threat remains.</color>
@@ -27,7 +27,7 @@
 <color=#C50000>[⎋] Alpha Warhead <b>Re-</b>activated: [time] Seconds!</color>
 
 -Symbols-
-SCP: 
+SCP:
 SCP (contained): [🔪]
 Nuke: ⎋
 Decontamination: ☁

@@ -36,5 +36,3 @@ Generators have been highlighted on the map in <b>"RED".</b>
 <size=25><color=#EC2222>Alive SCP's (+049-2):</color><color=#ffffff>{0}</color><color=#70C3FF>M</color><color=#0096FF>T</color><color=#003DCA>F</color>/<color=#5B6370>Guard:</color><color=#ffffff>{1}</color><color=#FFFF7CFF>Scientists:</color><color=#ffffff>{2}</color><color=#FF8E00>D-Class:</color><color=#ffffff>{3}</color><color=#0D7D35>Chaos</color><color=#008F1C>Insurgency</color><color=#006826>Agents:</color><color=#ffffff>{4}</color></size>
 
 NOTE: SCP-079 GETTING RE-WORK
-
-

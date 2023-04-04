@@ -47,4 +47,3 @@ No translation! Line: 46, DeathReasons
 No translation! Line: 47, DeathReasons
 No translation! Line: 48, DeathReasons
 <size=15>\n\n\n\n\n\n\n\n\nINFO</size>
-
