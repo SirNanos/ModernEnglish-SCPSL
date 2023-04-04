@@ -3,9 +3,7 @@ Credits / Author
 ---
 You are only eligible for manifest credits if you meet one of these requirements.
 
-1. Updating one translation (or more) regularly with each update.
-2. You added a full translation
-3. You have updated translation files with content of more than:
+1. You have updated translation files with content of more than:
     * 2 files with each exceeding **250 characters**
     * files with **500 characters** or more
 
