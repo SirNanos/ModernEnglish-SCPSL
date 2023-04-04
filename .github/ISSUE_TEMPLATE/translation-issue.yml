@@ -8,7 +8,7 @@ body:
       value: |
         Thanks for taking the time to fill out this report! 
         (If this is a **game** bug, please report it here instead: https://support.scpslgame.com/bug-report )
-        Questions should go to our [Discussions](https://github.com/northwood-studios/SCPSL-Translations/discussions) page instead.
+        Questions should go to our [Discussions](https://github.com/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL/discussions) page instead.
   - type: input
     id: contact
     attributes:
