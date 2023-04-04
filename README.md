@@ -15,3 +15,6 @@ Tutorial video 2: [How to install Modern English (Custom Translations) on SCPSL]
 ## Manual
 
 To be completed
+
+###### SCP: Secret Laboratory is a game released by Northwood Studios™, this repository and software is not affiliated with Northwood Studios™.
+###### All trademarks and registered trademarks are the property of their respective owners.
