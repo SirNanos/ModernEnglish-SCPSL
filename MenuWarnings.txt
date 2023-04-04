@@ -1,0 +1,4 @@
+Warning!
+<size=24>I have acknowledged the problem and wish to continue.</size>
+<color=#FF0><b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</b> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.</color>
+<color=#FF0>An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance.</color>

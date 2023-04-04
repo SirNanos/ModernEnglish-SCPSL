@@ -1,0 +1,28 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+#Lore in the "LORE" file!
+Micro
+HID
+storage
+containment
+area
+-
+Please
+do
+not
+operate
+the
+valable
+weapon
+contained
+in
+this
+area
+without
+special
+permission
+from
+an
+High-Rank
+Foundation
+Member!
+.

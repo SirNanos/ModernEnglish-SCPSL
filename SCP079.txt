@@ -1,0 +1,38 @@
+<color=#8080FF>Power Supply:</color>
+<color=#8080FF>Current XP:</color>
+<color=#8080FF><size=20>Client Logged In! User: SCP-079_CTRL_SYSTEM_OVERRIDE</color></size>
+<color=#8080FF>Press [KEY] to hack into Security Cameras</color>
+<color=#8080FF>+XP!</color>
+<color=#8080FF>Cooperative work</color>
+<color=#FF8E00>Class-D termination assist!</color>
+<color=#0D7D35>Chaos</color><color=#008F1C> Insurgency </color><color=#006826>Agent</color><color=#008F1e> termination assist!</color>
+<color=#70C3FF>M</color><color=#0096FF>T</color><color=#003DCA>F</color>/<color=#5B6370>Guard</color><color=#0096FF> termination assist!</color>
+<color=#FFFF7CFF>Scientist termination assist!</color>
+<color=#F00>SCP termination assist\nFRIENDLY FIRE!</color>
+<color=#8080FF>Doors locked-down: [LOCKED_NUM]<size=25>Right mouse (by default) to unlock all.</size></color>
+<color=#8080FF>Interaction!</color>
+A generator is attacking your defensives!
+Generators have been highlighted on the map in <b>"RED".</b>
+SYSTEM ATTACK
+<size=25><color=#EC2222>Alive SCPs (+49-2):</color><color=#ffffff>{0}</color><color=#70C3FF>M</color><color=#0096FF>T</color><color=#003DCA>F</color>/<color=#5B6370>Guard:</color><color=#ffffff>{1}</color><color=#FFFF7CFF>Scientists:</color><color=#ffffff>{2}</color><color=#FF8E00>D-Class:</color><color=#ffffff>{3}</color><color=#0D7D35>Chaos</color><color=#008F1C>Insurgency</color><color=#006826>Agents:</color><color=#ffffff>{4}</color></size>
+
+
+<color=#8080FF>Power Supply:</color>
+<color=#8080FF>Current XP:</color>
+<color=#8080FF><size=10>Client Logged In! User: SCP-079_CTRL_SYSTEM_OVERRIDE</color></size>
+<color=#8080FF>Press [KEY] to hack into Security Cameras</color>
+<color=#8080FF>+XP!</color>
+<color=#8080FF>Cooperative work</color>
+<color=#FF8E00>Class-D termination assist!</color>
+<color=#0D7D35>Chaos</color><color=#008F1C> Insurgency </color><color=#006826>Agent</color><color=#008F1e> termination assist!</color>
+<color=#70C3FF>M</color><color=#0096FF>T</color><color=#003DCA>F</color>/<color=#5B6370>Guard</color><color=#0096FF> termination assist!</color>
+<color=#FFFF7CFF>Scientist termination assist!</color>
+<color=#F00>SCP termination assist\nFRIENDLY FIRE!</color>
+<color=#8080FF>Doors locked-down: [LOCKED_NUM]<size=25>Right mouse (by default) to unlock all.</size></color>
+<color=#8080FF>Interaction!</color>
+A generator is attacking your defensives!
+Generators have been highlighted on the map in <b>"RED".</b>
+! SYSTEM ATTACK !
+<size=25><color=#EC2222>Alive SCP's (+049-2):</color><color=#ffffff>{0}</color><color=#70C3FF>M</color><color=#0096FF>T</color><color=#003DCA>F</color>/<color=#5B6370>Guard:</color><color=#ffffff>{1}</color><color=#FFFF7CFF>Scientists:</color><color=#ffffff>{2}</color><color=#FF8E00>D-Class:</color><color=#ffffff>{3}</color><color=#0D7D35>Chaos</color><color=#008F1C>Insurgency</color><color=#006826>Agents:</color><color=#ffffff>{4}</color></size>
+
+NOTE: SCP-079 GETTING RE-WORK
