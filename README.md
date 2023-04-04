@@ -1,8 +1,9 @@
 # ModernEnglishSCPSL
 
 Custom translations for SCP:SL Gameplay.
+Credit to Northwood for the translation workflow checks & more, go check out their main repo for official translations: (northwood-studios/SCPSL-Translations)[https://github.com/northwood-studios/SCPSL-Translations]
 
-* [Discord](https://discord.com/invite/YpZ8UBtzrq)
+* [ModernEnglish-SCPSL Discord](https://discord.com/invite/YpZ8UBtzrq)
 
 # Installation
 ## Video
