@@ -1,7 +1,7 @@
 ADS zoom
 ---
 Damage
-Penetration
+Penetration (Body armor)
 Fire rate
 Recoil
 Recoil when aiming

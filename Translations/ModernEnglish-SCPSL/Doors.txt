@@ -1,3 +1,31 @@
+<color=green><size=113>O</color></size>
+<color=#07A2FF><size=113>C</color></size>
+<color=orange><size=113>M</color></size>
+<size=100><color=red>🔒</color></size>
+<size=90><color=red>💥</color></size>
+<size=40><color=red>X</color></size>
+<size=40><color=green>◀ ▶</color></size>
+<size=50><color=#07A2FF>▼</color></size>
+<size=40><color=orange>◀ ▶</color></size>
+<size=40><color=orange>▶◀</color></size>
+
+# -------- v3.0.0 (13.0.0) test stuff
+
+<color=green><size=50>O</color></size>
+<color=#07A2FF><size=50>C</color></size>
+<color=orange><size=50>M</color>
+<size=69><color=red>🔒</color></size>
+<size=69><color=red>💥</color></size>
+<size=30><color=red>X</color></size>
+<size=30><color=green>◀ ▶</color></size>
+<size=40><color=#07A2FF>▼</color></size>
+<size=30><color=orange>◀ ▶</color></size>
+<size=30><color=orange>▶◀</color></size>
+
+
+
+## old for replacing ###
+
 <color=green><size=20>▉←→▉\n▉←→▉\n</size>O P E N E D</color></size>
 <color=#07A2FF><size=20>▉→←▉\n▉→←▉\n</size>C L O S E D</color></size>
 <color=orange><size=20>▉→←▉\n▉←→▉\n</size>M O V I N G</color>
@@ -5,22 +33,6 @@
 <size=69><color=red>💥</color></size>
 <size=30><color=red>X</color></size>
 <size=30><color=green>◀ ▶</color></size>
-<size=30><color=#07A2FF>▼</color></size>
+<size=40><color=#07A2FF>▼</color></size>
 <size=30><color=orange>◀ ▶</color></size>
 <size=30><color=orange>▶◀</color></size>
-
-
-
-
-
-
-<mspace=1em><color=green>DOOR IS OPEN</color>
-<mspace=1em><color=#07A2FF>DOOR IS CLOSED</color>
-<mspace=1em><color=orange>DOOR IS MOVING</color>
-<mspace=1.05em><color=red>LOCKED DOWN</color>
-<mspace=1em><size=15><color=red>HYDRAULIC SYSTEM\nCRITICAL ERROR</color>
-<mspace=1em><color=red>ACCESS DENIED</color>
-<mspace=1em><color=green>ACCESS GRANTED</color>
-<mspace=1em><color=#07A2FF>KEYCARD CLOSER</color>
-<mspace=1em><color=orange>TEMP-OPENED</color>
-<mspace=1em><color=orange>DOOR CLOSING</color>

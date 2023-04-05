@@ -1,6 +1,6 @@
-Report Player
-Target:\nPlayer ID:\nDescription:
-Cancel
+Reporting a player
+Offender:\nPlayer ID:\nDescribe the events took place + best as you can:
+Abort report
 Report for breaking Server rules.\n<color=yellow>(Reports to <b>Server Staff</b>)</color>
 Report for EUA/TOS breaches, cheating, etc.\n<color=red>(Reports to <b>Global Staff<b>)</color>
 [REPORTING]

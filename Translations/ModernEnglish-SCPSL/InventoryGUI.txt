@@ -1,17 +1,17 @@
-<color=orange>Ammo {0}/{1} {2}</color>
+<color=orange>Ammo {0}/{1} {2}
 <color=red>Damage
-<color=green>Fire Rate
-<color=green>Hip Accuracy
-<color=green>ADS Accuracy
+<color=green>Fire-rate
+<color=green>Non-aiming Accuracy
+<color=green>Aim Accuracy
 <color=red>Weight
 <color=yellow>Length
 DROP:
 <color=red>Helmet Efficacy
 Vest Efficacy
-<color=red>Stamina Usage
-<color=red>Movement Speed
-<color=green>Item Limits:
-<color=green>Ammo Limits:
+<color=red>Sprint use
+<color=red>Movement boost
+<color=green>Item Limit:
+<color=green>Ammo Limit:
 {0} total
-<color=green>Amor Penetration
+<color=green>B.A. Penetration
 <color=red>Running Accuracy

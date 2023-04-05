@@ -8,10 +8,10 @@
 <color=#aab35f>[🔪] Terminated!</color>: <color=#f00>Alpha Warhead. [⎋]</color>
 <color=#00bcd4>[🔪] Contained</color>:<color=#FFFF7CFF> Science Personnel. [♀]</color>
 <color=#00bcd4>[🔪] Contained</color>:<color=#FF8E00> Class-D Personnel. [♀]</color>
-<color=#00bcd4>[🔪] Contained</color>:<color=#008F1e> Chaos Insurgency. [♀]</color>
+<color=#00bcd4>[🔪] Contained</color><color=#008F1e> Chaos Insurgency. [♀]</color>
 <color=#f00>SCP-[scp] </color>
-<color=#00bcd4>[🔪] Contained! </color><color=#0096FF>Containment unit:</color><color=#00bcd4>unknown. [?]</color>
-<color=#00bcd4>[🔪] Contained! </color><color=#0096FF>Containment Unit: [designation] [♀]</color>.
+<color=#00bcd4>[🔪] Contained! </color> <color=#0096FF>MTF-</color><color=#00bcd4>unknown. [?]</color>
+<color=#00bcd4>[🔪] Contained! </color> <color=#0096FF>MTF-[designation] [♀]</color>.
 <color=#FDFF6D>[🔪] Terminated!: Decontamination Sequence. [☁]</color><size=1>when you are trapped</size>
 <color=#4800ff>[ϟ] Generators: <color=red>[current]</color> / <color=#F00>[max]</color> activated.</color>
 <color=#4800ff> All activated, Overcharge will commence by button</color>
@@ -20,7 +20,7 @@
 <color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>15 minutes.</color>
 <color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>[time] minutes.</color>
 <color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>1 minute.</color>
-<color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>30 Seconds.</color> <color=#F00>All checkpoint doors are open!</color>
+<color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>30 Seconds.</color> <color=#F00>All doors are open!</color>
 <color=#FDFF6D>[☁] Light Containment Zone Decontamination: <color=#FF9966>Commenced </color>-<color=red> LCZ now disabled.</color>
 <color=#C50000>[⎋] Alpha Warhead Activated: [time] Seconds!</color>
 <color=#50C878>[⎋] Alpha Warhead <b>De</b>-activated: Systems restarting.</color>

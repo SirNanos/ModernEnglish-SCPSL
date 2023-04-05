@@ -1,8 +1,8 @@
-\n\n\n<color=red>You are muted on <b>THIS</b> server!</color>
-\n\n\n<b><color=red>You are muted on <b>ALL</b> servers!</color></b>
-\n\n\n<b><color=#FF0>Please wait, you are connecting!</color></b>
+<color=red>Locally Muted\nApplied Manually by a Svr-Mod.</color>
+<color=red>Globally Muted\nApplied Manually by a G-Mod.</color>
+<color=red>Globally Muted\nYou're still connecting!</color>
 <color=#F00>Microphone Disabled/Unconnected</color>
-<color=#FF0>Your microphone is disabled/unconnected due to selected privacy settings.</color>
+<color=red>Globally Muted\nDisabled due to privacy settings.</color>
 <color=#FF0>Voice Chat Privacy Settings</color>
 <color=#D2D4C1>This game uses voice chat. Using the push-to-talk buttons (by default, "Q" and "V") will capture your microphone input and transmit it to other users connected to the server.\nCertain game features may temporarily store short samples of your transmissions, which will be automatically erased after disconnecting from the server.</color>
 <color=red>Reject all (disable microphone capture)</color>
@@ -15,7 +15,8 @@ Microphone Capture
 <color=#D2D4C1>Short Recordings</color>
 <color=#F00>Allow game mechanics to use short recordings of your voice. This includes SCP-939's "With Many Voices" ability, which can record and play back short voice samples of players that were killed. All recordings are discarded the moment you leave the server or the round is restarted.</color>
 <color=#00FF58>Apply settings</color>
-<color=#D2D4C1>Return
+<color=#D2D4C1>Return</color>
 Press "[key]" and navigate to "Settings" to adjust.
-<size=15>Knowledge isn't a skill. Knowledge +10,000 times is skill.</size> | Mute Alive people
-Trial and Error: Use each death as a lesson. | Mute Spectators
+<color=#FF0><size=10>If you're interested in these custom text files and want to obtain it yourself, go to https://discord.gg/YpZ8UBtzrq !</color> | Mute Alive people
+<color=#00FF58>Press your inventory key to edit firearm attachments.</color> | Mute Spectators
+translation test voice chat

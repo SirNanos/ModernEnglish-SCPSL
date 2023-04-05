@@ -3,7 +3,7 @@
 <color=#FFF><size=60>-SUMMARY-</size></color>
 <color=#FFF><size=60>-SUMMARY-</size></color>
 <color=#FFF><size=60>-SUMMARY-</size></color>
-<color=#F00>SCP's killed  everyone.</color>
+<color=#F00>SCP's killed everyone.</color>
 A unknown side has team has taken the facility.
 A C.I. Raid was succsessful.
 Unknown source has cut off the data.

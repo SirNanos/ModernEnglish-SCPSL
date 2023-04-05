@@ -1,4 +1,4 @@
-<color=#8080FF>Power Supply:</color>
+<color=#8080FF>Power:</color>
 <color=#8080FF>Current XP:</color>
 <color=#8080FF><size=20>Client Logged In! User: SCP-079_CTRL_SYSTEM_OVERRIDE</color></size>
 <color=#8080FF>Press [KEY] to hack into Security Cameras</color>
@@ -14,7 +14,7 @@
 A generator is attacking your defensives!
 Generators have been highlighted on the map in <b>"RED".</b>
 SYSTEM ATTACK
-<size=25><color=#EC2222>Alive SCPs (+49-2):</color><color=#ffffff>{0}</color><color=#70C3FF>M</color><color=#0096FF>T</color><color=#003DCA>F</color>/<color=#5B6370>Guard:</color><color=#ffffff>{1}</color><color=#FFFF7CFF>Scientists:</color><color=#ffffff>{2}</color><color=#FF8E00>D-Class:</color><color=#ffffff>{3}</color><color=#0D7D35>Chaos</color><color=#008F1C>Insurgency</color><color=#006826>Agents:</color><color=#ffffff>{4}</color></size>
+<size=25><color=#EC2222>Alive SCPs (+49-2):</color><color=#ffffff>{0}</color><color=#70C3FF>M</color><color=#0096FF>T</color><color=#003DCA>F</color>/<color=#5B6370>Guard:</color><color=#ffffff>{1}</color><color=#FFFF7CFF>Scientists:</color><color=#ffffff>{2}</color><color=#FF8E00>D-Class:</color><color=#ffffff>{3}</color><color=#0D7D35>Chaos</color><color=#008F1C>Insurgency:</color><color=#ffffff>{4}</color></size>
 
 
 <color=#8080FF>Power Supply:</color>
