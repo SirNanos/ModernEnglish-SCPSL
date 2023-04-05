@@ -2,4 +2,3 @@
 
  - Update README
  - Add issue labels
- - Add PR template
