@@ -1,6 +1,6 @@
-<size=1>.</size>
-<size=1>.</size>
-<size=1>.</size>
+<color=#00FF00>ALLY</color>
+<color=#00FF00>ALLY</color>
+<color=#00FF00>ALLY</color>
 Class-D Personnel escaped
 Scientists survived
 Killed by SCP
@@ -13,8 +13,7 @@ Your ability:
 Create a Sinkhole
 Telport to Sinkhole
 YOU DIED
-You have died... you were killed by;
-,as the following class:
+You've died... you were killed by
+who was
 Use these abilites to your advantage
 (Hidden)
-No_Translation, Legacy_Interfaces

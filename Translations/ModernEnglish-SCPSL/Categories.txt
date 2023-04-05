@@ -1,10 +1,10 @@
 None
 <color=#4800ff>Keycard</color>
-<color=#FF96DE>Medical Items</color>
+<color=#FF96DE>Medical items</color>
 <color=#FDFF6D>Radio</color>
 <color=#999999>Firearms</color>
 <color=#S69CP8>Grenades</color>
 <color=#S69CP8>SCP Items</color>
 <color=#0096FF>Micro H.I.D.</color>
-<color=#S69CP8>Ammo</color>
+<color=#S69CP8> Ammo</color>
 <color=#S69CP8>Body Armor</color>

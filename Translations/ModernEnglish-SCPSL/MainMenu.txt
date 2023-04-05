@@ -61,10 +61,10 @@ Sound Volume
 <color=yellow>Set Default</color>
 <color=#00FF58>We use Steam Discussions as a forum. (Click the logo below to open the forum)</color>
 <color=#FFA500>Audio Settings</color>
-<color=blue>Master Volume</color>
+<color=blue>Master Volume</color>\n<color=#F00>Overall volume.</color>
 <color=#D2D4C1>Menu Music</color>
-<color=#FFA500>Voice Chat</color>
-<color=#FFFF7CFF>Sound Effects</color>
+<color=#50C878>Voice Chat</color>\n<size=20><color=#FF0>Players microphone, regarding to voice chat.</color></size>
+<color=#FFFF7CFF>Sound Effects</color>\n<size=20><color=#FF0>In-game sounds, such as Items, Footsteps, Gun-shots, etc.</color></size>
 <color=#FFA500>Gameplay options</color>
 <color=#D2D4C1>Fast Intro Fade</color>
 <color=#FFA500>Class intro text will fade out much more quickly.</color>
@@ -99,4 +99,4 @@ Synchronizes the in-game frame rate with your monitor's refresh rate to stop scr
 Projected textures such as bullet holes or blood splatter.
 
 
-Dehances the gameplay, darks some areas and some effects.
+Dehances the gameplay brightness, darks some areas and some effects.

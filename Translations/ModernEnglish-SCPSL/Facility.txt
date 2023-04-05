@@ -46,15 +46,3 @@ Enable-noise-reduction (recommended - VC is 60% louder)
 Automatic System (Default)
 Couldn't detect Microphone connection.
 Input a device (Mic.)
-No_Translation!_Line: 49, File: Facility
-No_Translation!_Line: 50, File: Facility
-No_Translation!_Line: 51, File: Facility
-No_Translation!_Line: 52, File: Facility
-No_Translation!_Line: 53, File: Facility
-No_Translation!_Line: 54, File: Facility
-No_Translation!_Line: 55, File: Facility
-No_Translation!_Line: 56, File: Facility
-No_Translation!_Line: 57, File: Facility
-No_Translation!_Line: 58, File: Facility
-No_Translation!_Line: 59, File: Facility
-No_Translation!_Line: 60, File: Facility

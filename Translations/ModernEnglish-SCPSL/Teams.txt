@@ -1,6 +1,15 @@
+<color=#F00>SCP M<lowercase>onsters</color>
+<color=#0096FF>F<lowercase>oundation</color> <color=#A2A2A2></lowercase>F<lowercase>orces</color>
+<color=#0D7D35>C<lowercase>haos </lowercase>I<lowercase>nsurgeny</color>
+<color=#FFFF7CFF>Researchers</color>
+<color=#FF8E00>D-C<lowercase>lass</color>
+<color=#D2D4C1>Unclassified</color>
+
+
+
 <color=#F00>SCP Monsters</color>
 <color=#0096FF>Foundation</color> <color=#A2A2A2>Forces</color>
 <color=#0D7D35>Chaos Insurgeny</color>
 <color=#FFFF7CFF>Researchers</color>
-<color=#FF8E00>Class-D</color>
+<color=#FF8E00>D-Class</color>
 <color=#D2D4C1>Unclassified</color>

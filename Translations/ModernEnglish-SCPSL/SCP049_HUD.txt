@@ -1,12 +1,12 @@
 <color=#FF0>Soul decayed.</color>
 <color=#F00>Dead body expired</color>s
 <color=#F00>Soul has reached resurrection limit</color>
-<color=#F00><b>Declined:</color></b>\nThe client has <color=F00>denied</color> further resurrection.
+<color=#F00><b>Declined:</color></b>\nThe client has <color=#F00>denied</color> further resurrection.
 This corpse cannot be revived.
 <color=#F00>Corpse already consumed.</color>
 Only <b>human</b> corpses may be consumed.
 <color=#F00>-Attack Cooldown-</color>
-<color=green><b>Request successful:</color></b>\nYou have <color=F00>denied</color> further resurrection from SCP-049.
+<color=green><b>Request successful:</color></b>\nYou have <color=#F00>denied</color> further resurrection from SCP-049.
 Press <color=#FF0>[key]</color> to <color=F00>deny</color> further resurrection.
 <color=#003DCA>Couldn't locate any targets.</color>
 Already at full health!

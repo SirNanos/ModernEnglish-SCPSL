@@ -4,13 +4,32 @@
 <color=#F00>Remove Attachments</color>
 <color=#FFA500>Default</color>
 <color=#FFA500>Presets</color>
-<color=#F00>Workstation Hibernating</color>
-<color=red>Worksation is currently Hibernating. Press the screen to turn it on.</color>
-<color=green>Workstation Online\n<size=39>Need a break? Cafeteria is open 24/7. We now have <s>pizza!</s> <i>Fried Chicken!</i></size></color>
-<color=yellow>Workstation is now Starting up...</color>
-<color=green>Workstation operational!</color>
-<color=green>System operational<size=41>\nplease equip your firearm to modify the attcahments!</size></color>
-<color=yellow>Commencing Hibernation Mode...</color>
-<color=yellow>Commencing Hibernation Mode...</color>
+<color=#F00><size=50>Hibernating</color></size>
+<color=red><size=35>Worksation is currently Hibernating. Press the screen to turn it on.</color></size>
+<color=yellow>Starting up...\n<size=39>Need a break? Cafeteria is open 24/7. We now have <s>pizza!</s> <i>Fried Chicken!</i></size></color>
+<color=yellow>JHP are better for unarmed targets (best for SCP’s)\nAP are better for Armoured targets (humans - MTF/CI)\nFMJ is a median between them (50/50)</color>
+<color=green>Workstation Open. No problems</color>
+<color=green><size=41>Hold out a weapon to modify attachments.</size></color>\n<color=green>JHP are better for unarmed targets (best for SCP’s)\nAP are better for Armoured targets (humans - MTF/CI)\nFMJ is a median between them (50/50)</color>
+<size=100><color=yellow>Commencing Hibernation Mode...</color></size>
+<color=yellow>The table is now closing down, auto-closes after 30 seconds of inactivity.</color>
+<color=#FFA500>Show Summary</color>
+<color=#FFA500>Close Summary</color>
+
+######
+
+<color=#F00>Custom</color>
+<color=#FF0>Preset #<b>[index]</b></color>
+<color=green>Save</color>
+<color=#F00>Remove Attachments</color>
+<color=#FFA500>Default</color>
+<color=#FFA500>Presets</color>
+<color=#F00>Closed.</color>
+<color=red>Closed description</color>
+<color=yellow>Starting Up main</color>
+<color=yellow>Starting up des.</color>
+<color=green>Online</color>
+color=green>Online description.</color>
+<color=yellow>Closing</color>
+<color=yellow>Closing description.</color>
 <color=#FFA500>Show Summary</color>
 <color=#FFA500>Close Summary</color>

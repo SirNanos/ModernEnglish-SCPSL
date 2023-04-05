@@ -30,7 +30,7 @@ Toggle Flashlight
 <color=#0096FF>Grenade Hotkey</color>
 <color=#D2D4C1>Pause Menu</color>
 <color=#006826>Debug Log</color>
-Free-Cam Mode
+Free-Cam Mode (079)
 <color=#EC2222>Lock Door</color>
 <color=#00FF58>Release All Locks</color>
 <color=#008F1C>Blackout</color>

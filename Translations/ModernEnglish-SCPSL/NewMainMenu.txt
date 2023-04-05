@@ -5,13 +5,13 @@
 <color=#999999>Social Media</color>
 <color=#FFFF7CFF>✇Public Servers</color>
 <color=#f00>❤Fav. Servers</color>
-<color=blue>✪Official Servers</color>
+<color=blue>✪fficial Servers</color>
 <color=#A2A2A2>⍈Server History</color>
 <color=#999999>☺Friends Playing</color>
 <color=#FF8E00>⌕ Search for a server..</color>
 <color=#FFFF7CFF>Make Server</color>
 <color=#462J83>Re-Join\nServer</color>
-<color=yellow>Direct Connect\n<size=10>(Example: 51.161.196:7779)</size></color>
+<color=yellow>Direct Connect\n<size=10>(Example: 51.161.196.138:7780)</size></color>
 <color=#A2A2A2>Refresh Server\nList</color>
 <color=#0096FF>Hide Empty Games</color>
 <color=#FFFF7CFF>Hide Full Games</color>
@@ -38,9 +38,9 @@
 <color=#ccc>Color Correction</color>
 <color=#deez>Anti-Aliasing</color>
 <color=yellow>Render Lights</color>
-<color=blue>Master Volume</color>
-<color=#FFFF7CFF>Sound Effects</color>
-<color=#50C878>Voice Chat</color>
+<color=blue>Master Volume</color>\n<size=20><color=#F00>Overall volume.</color></size>
+<color=#FFFF7CFF>Sound Effects</color>\n<size=20><color=#FF0>In-game sounds, such as Items, Footsteps, Gun-shots, etc.</color></size>
+<color=#50C878>Voice Chat</color>\n<size=20><color=#FF0>Players microphone, regarding to voice chat.</color></size>
 <color=#9e6d30>Menu Music</color>
 <color=#C50000>Interface Volume</color>
 <color=#3weeb6>Menu Theme</color>
@@ -63,14 +63,14 @@
 <color=#008F1e>Are you sure you want to quit?</color>
 <color=#FFFF7CFF>Screen Resolution</color>
 <color=#999999>Hide IP</color>
-Modern English SCP:SL Translations:\nWelcome {username}!
+Modern English SL Translations:\nWelcome {username}!
 <color=#FFFF00>✎Credits</color>
-<color=green>AUTHENTICATING...</color>
-<color=#f0u72n>Connecting to central servers...
+<color=green>Authenticating...</color>\n<color=#FF0>This may take a while..</color>
+<color=#f0u72n>Connecting to central servers...</color>
 <color=green>Connection established</color>
-<color=red>Connection failure (Check console for details)</color>
-<color=red>Steam authentication failure (Check console for details)</color>
-<color=red>Discord authentication failure (Check console for details)</color>
+<color=red>Error: Connection Failure (Check console for details, "~" key.)</color>
+<color=red>Error: Steam authentication(Check console for details, "~" key.)</color>
+<color=red>Discord authentication failure (Check console for details, "~" key.)</color>
 <color=#F00>Disabled</color>
 Seconds
 <color=orange>Ragdoll Cleanup Time</color>
@@ -79,7 +79,7 @@ Seconds
 <color=#00bcd4>Do Not Track (DNT)</color>
 <color=#FFFF00>Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.</color>
 <color=yellow>Graphics API</color>
-Creating game servers directly from the game is <b>no longer supported</b>.\n<color=yellow>There are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
+Creating game servers directly from the game is <b>no longer supported</b>.\nThere are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
 <size=10>Please Create Anyway!</size>
 <color=yellow>Read More</color>
 <color=green>Rent A Server</color>
@@ -90,5 +90,5 @@ For playing our game!
 <color=#9e6d30>Ambient Occlusion</color>
 <color=orange>Volumetric Lights</color>
 <color=#50C878>Bloom</color>
-Toggle CASSIE subtitles
-ⓘperational Guide
+<color=#F00>Toggle CASSIE subtitles</color>
+ⓘGameplay Guide

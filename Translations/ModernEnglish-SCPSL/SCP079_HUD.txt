@@ -1,74 +1,74 @@
 <color=#8080FF>Zoom [amount]x</color>
-<color=#8080FF>Acess Tier [tier]</color>
+<color=#8080FF>Tier [tier]</color>
 <color=#8080FF>Exp [current] / [next]</color>
 <color=#8080FF>Max tier reached!</color>
 <color=#8080FF>No Camera</color>
-<color=#8080FF>Go to: [camera], </color><color=#FF0>([cost])</color>
+<color=#8080FF>Go: <color=#00FF58>[camera]</color>, </color><color=#FF0>([cost])</color>
 <color=red>Not enough power!</color>
-<color=green>In T-minus\n[time] seconds.</color>
+<color=green>Time: \n[time]s.</color>
 <color=red>A higher tier required!</color>
 Invalid Camera
-[Access Deined]
+Denied access.
 <color=#8080FF>Open Door, </color><color=#FF0>([cost])</color>
 <color=#8080FF>Close Door, </color><color=#FF0>([cost])</color>
 <color=#8080FF>Lock Door, </color><color=#FF0>([cost])</color>
 <color=#8080FF>Unlock Door</color>
-<color=red>Cooldown\nDoor-Locking</color>
-<color=#8080FF>Current Power:</color>
+<color=#D2D4C1>C-D:\nDoor-Locking</color>
+<color=#8080FF>Power:</color>
 <color=red>ATTACK DETECTED!</color>
-<color=#8080FF>Release all doors</color> <color=#FF0>([num] total)</color>
-Open Facility Map
+[!]   <mark=#708090><color=#F00>[num]</color> Locked doors | Unlock ALL:</mark>
+<color=#70C3FF>Open Facility Map</color>
 Close
 Light Containment Zone
 <color=#A2A2A2>Heavy Containment Zone</color>
 <color=#ebc934>Entrence Zone</color>
 <color=#FFF>Surface Zone</color>
-<color=#8080FF>Blackout</color> <color=#FF0>([cost])</color>
-<color=red>Blackout can't be perfomed in this room!</color>
-<color=red>Room Blackout limit reached!</color>
-<color=red>Cooldown:\nBackout room</color>
+<color=#D2D4C1>Blackout</color> <color=#FF0>([cost])</color>
+<color=red>Blackout Blocked</color>
+<color=red>Room Blackout limit reached!</color><size=17>\n\n\n<color=#FFF>1 Room = Access 2\n2 Rooms = Access 3\n3 Rooms = Access 4+</size></color>
+<color=#D2D4C1>C-D:\nBackout</color>
 <color=#8080FF>Move elevator</color> <color=#FF0>([cost])</color>
-<color=#8080FF>Lockdown <color=#FF0>([cost])</color>
-<color=#F00>Cooldown:\nLockdown</color>
+<color=#EC2222>Lockdown <color=#FF0>([cost])</color>
+<color=#F00>C-D:\nLockdown</color>
 <color=red>Door(s) destoyed: Can't lockdown.</color>
-<color=#8080FF>Ping Room </color><color=#FF0>([cost])</color>
-<color=#F00>Reached Ping limit!</color><color=#FF0>\n({0} max)</color>
+<color=#8080FF>Ping </color><color=#FF0>([cost])</color>
+<color=#F00>Reached Ping limit!</color>
 <color=red>Failed to switch camera.</color>
-<size=40>[ERROR 939: NO POWER]</size>
-<size=20>RECONNECTING... ([time]s)</size>
+<size=65>[ERROR 939: NO POWER]</size>
+<size=20>RECONNECTING... ([time]s)\nCOULDN'T VERIFY POWER OUTAGE CAUSE</size>
 Force-fire Tesla Gate <color=#FF0>([cost])</color>
-Cooldown:\nTesla-Gate Force fire
+<color=#D2D4C1>C-D:\nTesla-Gate Force fire</color>
 <color=#00ff2a>$Level Up: [tier]$ - Updated tier access!</color>
-<color=#00ff2a>$Power Limit$ limit increased to $[limit]$.</color>
-<color=#00ff2a>$Blackout$ now available - press $[key]$ to disable room lights.</color>
-<color=#00ff2a>$Blackout$ Limit increaed to $[number]$ rooms.</color>
-<color=#00ff2a>$Lockdown$ now available - press $[key]$ to temporarily lock down all doors in a room.</color>
-<color=#00ff2a>+[amount] EXP</color> - <color=#00FF58>Administrator command.</color>
+<color=#00ff2a>$Power Limit$ limit increased to <color=#00FF58>$[limit]$</color>.</color>
+<color=#00ff2a>$Blackout$ now available - press <color=#00FF58>$[key]$</color> to disable room lights.</color>
+<color=#00ff2a>$Blackout$ Limit increaed to <color=#00FF58>$[number]$</color> rooms.</color>
+<color=#00ff2a>$Lockdown$ now available - press <color=#FFF>$[key]$</color> to temporarily lock down all doors in a room.</color>
+<color=#00ff2a>+[amount] EXP</color> - <color=#00FF58>Administrator command. (Stop cheating)</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#FF8E00>Assisted Class-D termination!</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#FFFF7CFF>Assisted Scientist termination!</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#5B6370>Assisted Security Agent termination!</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#0096FF>Assisted MTF Troop termination!</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#006826>Assisted Chaos Insurgency termination!</color>
-<color=#00ff2a>+[amount] EXP</color> - <color=#D2D4C1>Assisted Human termination assist</color>
-<color=#00ff2a>+[amount] EXP</color> - <color=#D2D4C1>Witnessed termination by a teammate</color>
+<color=#00ff2a>+[amount] EXP</color> - <color=#D2D4C1>Assisted Human termination assist! {Unknown class}</color>
+<color=#00ff2a>+[amount] EXP</color> - <color=#D2D4C1>You've witnessed a termination by a teammate.</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#D2D4C1>Teammate's pursuit assist</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#F00>Protected an SCP Ally.</color>
 <color=#00ff2a>+[amount] EXP</color> - <color=#0096FF>Prevented use of Micro H.I.D.</color>>
 <color=#00ff2a>SCP-079 Mode Online</color>
 <color=#00ff2a>Zone-Wide Blackout</color>
-<color=green>$Zone-Wide Blackout$ now avalible!</color><color=#FF0>Click on icon next to map name to activate it.</color>
-<color=red>Blackout:\nCooldown!</color>
-<color=#F00>Blackout:\nAlready active!</color>
-<color=#F00>Blackout:\nunavalible in this zone!</color>
+<color=green>$Zone-Wide Blackout$ now avalible!</color> <color=#FF0>Click on icon next to map name to activate it.</color>
+<color=#D2D4C1>C-D:\nBlackout</color>
+<color=#F00>Blackout:\nActive!</color>
+<color=#F00>Blackout:\nNot in zone</color>
 <color=#D2D4C1>Total life forms:</color>
 Targets
 <color=#F00>SCP Anomalies:</color>
-<color=#00FF58>Civillian Classes:</color>
-<color=#32a6a8>Military Classes:</color>
-Speak (Holds Power)
-<color=#F00>Access Declined: Elevator</color>
-<color=#8080FF>SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.</color>
-<color=#8080FF>Virtually Indestructible:</color><color=#8080FF>There are three generators in Heavy Containment Zone. If all are engaged, you can be recontained from your chamber. Generators have a countdown sequence that can be interrupted by pressing the "CANCEL" button on the generator.</color>
-<color=#8080FF>Unlimited Access:</color><color=#8080FF>You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time.</color>
-<color=#8080FF>Deep Learning:</color><color=#8080FF>Assisting in terminations, or performing helpful actions for the other SCPs will grant you experience towards a new access tier. Each new tier provides more AP, and grants you new abilities.</color>
-<color=#8080FF>Overwatch:</color><color=#8080FF>Being everywhere and nowhere grants you a unique perspective. You can ping locations, people, and objects of interest, allowing you to assist in the slaughter.</color>
+<color=#FF8E00>Class-D </color>/<color=#FFFF7CFF>Scientists</color> <color=#00FF58>(Civ.)</color>
+<color=#70C3FF>MTF</color>/<color=#008F1C>Chaos <color=#32a6a8>(Army.)</color>
+<color=#D2D4C1>Speak</color> <color=#F00>(Holds Power)</color>
+<color=#F00>Elevator is locked.</color>
+<color=#FF0>You're a robot, you can't kill humans.\n<color=#8080FF>SCP-079 has no direct combat or movement capabilities. Instead, you view and interact with the world through security cameras found in every room. All available abilities are listed in the top-right corner of your HUD.</color>
+<color=#8080FF>Virtually Indestructible:<color=#FF0>3 Generators.\n</color><color=#8080FF>Three (3) Emergency power stations spawn accross heavy containment, when one is active, you'll recive a warning. Press on the "<color=#F00>CANCEL</color>" button on the generator. You can ping generators too.</color>
+<color=#003DCA>Unlimited Access:</color><color=#FF0>Power\n<color=#003DCA>You can manipulate numerous systems in the facility to assist the other SCPs. The top right of your screen shows what abilities are available. These abilities cost auxiliary power (AP) to use, which regenerates over time, increases as Tier access increases.</color>
+<color=#FFA500>Deep Learning:</color><color=#FF0>Only kills for XP.\n</color><color=#FFA500>Helping your allies kill humans gains XP, and updates your tier access. The higher your tier access, the more you can do.</color>
+<color=#00FF58>Overwatch:</color><color=#00FF58>You cannot see the world like a human, but you view cameras throghout the facility. You can ping a location, door or elevator which the SCP ally which will see.</color>

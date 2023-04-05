@@ -20,3 +20,5 @@
 <color=#FFA500>There's bitemarks present on the body as well as deep-bleeing scraches,\nmost likely caused by <color=#F00>SCP-049's zombies. (SCP-049-2)</color>
 <color=#F00>Bled</color><color=#FFA500> to death.</color>
 <color=#FF0>Sticky and yellow skin</color> <color=#FFA500>are present on the body, suggested caused by poison.</color>
+
+NEW DEATH CAUSES: DeathReasosn.txt

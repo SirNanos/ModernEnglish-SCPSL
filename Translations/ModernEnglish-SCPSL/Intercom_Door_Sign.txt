@@ -1,6 +1,4 @@
-#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
-# hold up, Colours won't work wtf
-Intercom
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.Intercom
 Broad-
 -casting
 area
