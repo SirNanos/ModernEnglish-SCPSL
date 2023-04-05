@@ -7,7 +7,7 @@ This repo is used by Northwood Studios for hosting and managing translations for
   
 </div>
 
-Custom translations for SCP:SL Gameplay.
+Custom translations for SCP: SL Gameplay.
 Credit to Northwood Studios for the translation workflow checks, issue template, PR template, contributing guidelines, issue tags and more. Go check out their main repo for official translations: [northwood-studios/SCPSL-Translations](https://github.com/northwood-studios/SCPSL-Translations)
 
 * [ModernEnglish-SCPSL Discord](https://discord.com/invite/YpZ8UBtzrq)
