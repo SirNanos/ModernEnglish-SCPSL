@@ -1,4 +1,11 @@
-# ModernEnglishSCPSL
+<div align = center>
+
+# ModernEnglish-SCPSL <br>![PRs](https://badgen.net/github/open-prs/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![Contributors](https://img.shields.io/github/contributors-anon/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cacheSeconds=3600) ![Forks](https://badgen.net/github/forks/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![MergedPRs](https://badgen.net/github/merged-prs/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![Checks](https://badgen.net/github/checks/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) [![](https://badgen.net/discord/members/YpZ8UBtzrq)](https://discord.com/YpZ8UBtzrq)<br>
+This repo is used by Northwood Studios for hosting and managing translations for the game *SCP: Secret Laboratory*. 
+
+***
+  
+</div>
 
 Custom translations for SCP:SL Gameplay.
 Credit to Northwood Studios for the translation workflow checks, issue template, PR template, contributing guidelines, issue tags and more. Go check out their main repo for official translations: [northwood-studios/SCPSL-Translations](https://github.com/northwood-studios/SCPSL-Translations)
