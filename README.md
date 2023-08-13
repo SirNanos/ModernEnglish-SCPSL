@@ -1,6 +1,6 @@
 <div align = center>
 
-# Modern English SCPSL <br>![PRs](https://badgen.net/github/open-prs/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![Contributors](https://img.shields.io/github/contributors-anon/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cacheSeconds=3600) ![Forks](https://badgen.net/github/forks/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![MergedPRs](https://badgen.net/github/merged-prs/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![Checks](https://badgen.net/github/checks/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) [![]
+# Modern English SCPSL <br>![PRs](https://badgen.net/github/open-prs/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![Contributors](https://img.shields.io/github/contributors-anon/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cacheSeconds=3600) ![Forks](https://badgen.net/github/forks/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![MergedPRs](https://badgen.net/github/merged-prs/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![Checks](https://badgen.net/github/checks/CanThisNameNotBeStolenPlease/ModernEnglish-SCPSL?cache=600) ![]
 Custom translations for SCP: SL gameplay. 
 
 ***
